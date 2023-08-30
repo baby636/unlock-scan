@@ -47,7 +47,7 @@
     "@mycrypto/eth-scan": ">=3.2.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.7.7",
+    "@babel/cli": "^7.12.0",
     "@babel/core": "^7.7.7",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.7.4",
     "@babel/plugin-proposal-optional-chaining": "^7.7.5",
